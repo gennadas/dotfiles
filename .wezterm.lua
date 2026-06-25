@@ -1,6 +1,7 @@
 local wezterm = require 'wezterm'
 local act = wezterm.action
 
+
 return {
   default_prog = { 'wsl.exe', '-d', 'archlinux', '--', '/usr/bin/tmux' },
   font = wezterm.font("JetBrains Mono"),
