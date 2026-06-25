@@ -1,0 +1,2 @@
+[2m2026-06-12T15:50:56.452455Z[0m [31mERROR[0m [2mzebar::sys_tray[0m[2m:[0m Error handling menu event: No widget pack found for 'glzr-io.starter'.
+[2m2026-06-12T21:40:35.124879Z[0m [31mERROR[0m [2mzebar::sys_tray[0m[2m:[0m Error handling menu event: HTML file not found at '/dist/index.html' for config 'C:\Users\g\.glzr\zebar\my\zpack.json'.
